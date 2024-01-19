@@ -1,0 +1,14 @@
+C:\Curso\Primeiro\ConsoleAppDotnet\bin\Debug\net8.0\ConsoleAppDotnet.exe
+C:\Curso\Primeiro\ConsoleAppDotnet\bin\Debug\net8.0\ConsoleAppDotnet.deps.json
+C:\Curso\Primeiro\ConsoleAppDotnet\bin\Debug\net8.0\ConsoleAppDotnet.runtimeconfig.json
+C:\Curso\Primeiro\ConsoleAppDotnet\bin\Debug\net8.0\ConsoleAppDotnet.dll
+C:\Curso\Primeiro\ConsoleAppDotnet\bin\Debug\net8.0\ConsoleAppDotnet.pdb
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\ConsoleAppDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\ConsoleAppDotnet.AssemblyInfoInputs.cache
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\ConsoleAppDotnet.AssemblyInfo.cs
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\ConsoleAppDotnet.csproj.CoreCompileInputs.cache
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\ConsoleAppDotnet.dll
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\refint\ConsoleAppDotnet.dll
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\ConsoleAppDotnet.pdb
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\ConsoleAppDotnet.genruntimeconfig.cache
+C:\Curso\Primeiro\ConsoleAppDotnet\obj\Debug\net8.0\ref\ConsoleAppDotnet.dll

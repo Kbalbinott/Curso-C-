@@ -1,0 +1,7 @@
+C:\Curso\Primeiro\ConsoleAppNetframework\bin\Debug\ConsoleAppNetframework.exe.config
+C:\Curso\Primeiro\ConsoleAppNetframework\bin\Debug\ConsoleAppNetframework.exe
+C:\Curso\Primeiro\ConsoleAppNetframework\bin\Debug\ConsoleAppNetframework.pdb
+C:\Curso\Primeiro\ConsoleAppNetframework\obj\Debug\ConsoleAppNetframework.csproj.AssemblyReference.cache
+C:\Curso\Primeiro\ConsoleAppNetframework\obj\Debug\ConsoleAppNetframework.csproj.CoreCompileInputs.cache
+C:\Curso\Primeiro\ConsoleAppNetframework\obj\Debug\ConsoleAppNetframework.exe
+C:\Curso\Primeiro\ConsoleAppNetframework\obj\Debug\ConsoleAppNetframework.pdb

@@ -1,0 +1,10 @@
+C:\Curso\Primeiro\FormsAppNetFramwork\bin\Debug\FormsAppNetFramwork.exe.config
+C:\Curso\Primeiro\FormsAppNetFramwork\bin\Debug\FormsAppNetFramwork.exe
+C:\Curso\Primeiro\FormsAppNetFramwork\bin\Debug\FormsAppNetFramwork.pdb
+C:\Curso\Primeiro\FormsAppNetFramwork\obj\Debug\FormsAppNetFramwork.csproj.AssemblyReference.cache
+C:\Curso\Primeiro\FormsAppNetFramwork\obj\Debug\FormsAppNetFramwork.Form1.resources
+C:\Curso\Primeiro\FormsAppNetFramwork\obj\Debug\FormsAppNetFramwork.Properties.Resources.resources
+C:\Curso\Primeiro\FormsAppNetFramwork\obj\Debug\FormsAppNetFramwork.csproj.GenerateResource.cache
+C:\Curso\Primeiro\FormsAppNetFramwork\obj\Debug\FormsAppNetFramwork.csproj.CoreCompileInputs.cache
+C:\Curso\Primeiro\FormsAppNetFramwork\obj\Debug\FormsAppNetFramwork.exe
+C:\Curso\Primeiro\FormsAppNetFramwork\obj\Debug\FormsAppNetFramwork.pdb
