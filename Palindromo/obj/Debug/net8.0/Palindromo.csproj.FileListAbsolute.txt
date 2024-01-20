@@ -1,0 +1,14 @@
+C:\Curso\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.exe
+C:\Curso\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.deps.json
+C:\Curso\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.runtimeconfig.json
+C:\Curso\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.dll
+C:\Curso\Palindromo\Palindromo\bin\Debug\net8.0\Palindromo.pdb
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.AssemblyInfoInputs.cache
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.AssemblyInfo.cs
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.dll
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\refint\Palindromo.dll
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.pdb
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\Palindromo.genruntimeconfig.cache
+C:\Curso\Palindromo\Palindromo\obj\Debug\net8.0\ref\Palindromo.dll
